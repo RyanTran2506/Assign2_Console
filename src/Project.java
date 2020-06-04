@@ -15,5 +15,7 @@ public class Project {
 		m1.setResponsibility("do code");
 		
 		groupMembers.add(m1);
+		
+		//test
 	}
 }
