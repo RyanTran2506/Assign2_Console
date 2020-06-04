@@ -17,5 +17,13 @@ public class Project {
 		groupMembers.add(m1);
 		
 		//test
+		
+		Member m2 = new Member();
+		m1.setStudentID("300300323");
+		m1.setName("Ros");
+		m1.setGender("Female");
+		m1.setResponsibility("do documents");
+		
+		groupMembers.add(m2);
 	}
 }
